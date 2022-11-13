@@ -28,6 +28,8 @@ int main()
             jumlahPermen++;
         }
         cout << "\nDito mendapatkan " << jumlahPermen << " buah permen";
+    }else{
+        cout << "Pilih sesuai harga yang tertera";
     }
     return 0;
 }
